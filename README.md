@@ -13,9 +13,9 @@
 - download_and_execute payload - downloads a file and executes it on target system
 - download_execute_and_report payload - downloads a file, executes it, and reports result by email
 - reverse_backdoor - gives remote control over the system it gets executed on, allows us to
--- Access file system
--- Execute system commands
--- Download & upload files
+  - Access file system
+  - Execute system commands
+  - Download & upload files
 - keylogger - records key-strikes and sends them to us by email
 - crawler - discovers hidden paths on a target website
 - discover_subdomains - discovers subdomains on target website
